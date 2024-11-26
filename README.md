@@ -7,11 +7,11 @@ This data-driven marketing analytics project addresses critical challenges in di
 
 2. Project Objectives
 
-    • Optimize conversion rates
+    •Optimize conversion rates
 
-    • Enhance customer engagement
+    •Enhance customer engagement
  
-    • Improve customer satisfaction metrics
+    •Improve customer satisfaction metrics
 
 3. Methodology
 
