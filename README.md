@@ -2,62 +2,62 @@
 
 Marketing Analytics Project
 
-Overview
+1. Overview
 This data-driven marketing analytics project addresses critical challenges in digital retail marketing by leveraging comprehensive data analysis techniques to improve customer engagement and conversion strategies.
 
-Project Objectives
+2. Project Objectives
 
-•	Optimize conversion rates
+      •	Optimize conversion rates
 
-•	Enhance customer engagement
+      •	Enhance customer engagement
+ 
+      •	Improve customer satisfaction metrics
 
-•	Improve customer satisfaction metrics
-
-Methodology
+3. Methodology
 
 Data Processing
 
-•	SQL-based data extraction and transformation
+    •	SQL-based data extraction and transformation
 
-•	Python sentiment analysis
+    •	Python sentiment analysis
 
-•	Business intelligence dashboard development
+    •	Business intelligence dashboard development
 
-Key Analysis Techniques
+4. Key Analysis Techniques
 
-•	Performance metric tracking
+    •	Performance metric tracking
 
-•	Customer journey mapping
+    •	Customer journey mapping
 
-•	Sentiment and feedback analysis
+    •	Sentiment and feedback analysis
 
-Key Deliverables
+5. Key Deliverables
 
-•	Interactive PowerBI dashboards
+    •	Interactive PowerBI dashboards
 
-•	Actionable marketing insights
+    •	Actionable marketing insights
 
-•	Strategic recommendations for marketing optimization
+    •	Strategic recommendations for marketing optimization
 
-Technical Stack
+6. Technical Stack
 
-•	SQL Server
+    •	SQL Server
 
-•	Python
+    •	Python
 
-•	PowerBI
+    •	PowerBI
 
-•	Data Analytics Tools
+    •	Data Analytics Tools
 
 
-Impact
+7. Impact
 
 The project provides a comprehensive framework for:
 
-•	Understanding customer behavior
+    •	Understanding customer behavior
 
-•	Identifying marketing performance gaps
+    •	Identifying marketing performance gaps
 
-•	Developing data-driven improvement strategies
+    •	Developing data-driven improvement strategies
 
 
